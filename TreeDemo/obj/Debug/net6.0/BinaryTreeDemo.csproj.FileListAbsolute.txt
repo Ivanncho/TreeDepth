@@ -1,0 +1,15 @@
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\bin\Debug\net6.0\BinaryTreeDemo.exe
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\bin\Debug\net6.0\BinaryTreeDemo.deps.json
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\bin\Debug\net6.0\BinaryTreeDemo.runtimeconfig.json
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\bin\Debug\net6.0\BinaryTreeDemo.dll
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\bin\Debug\net6.0\BinaryTreeDemo.pdb
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.csproj.AssemblyReference.cache
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.AssemblyInfoInputs.cache
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.AssemblyInfo.cs
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.dll
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\refint\BinaryTreeDemo.dll
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.pdb
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\BinaryTreeDemo.genruntimeconfig.cache
+C:\Users\jasmi\source\repos\BinaryTreeDemo\BinaryTreeDemo\obj\Debug\net6.0\ref\BinaryTreeDemo.dll
